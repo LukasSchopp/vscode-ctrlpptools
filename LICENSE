@@ -6,7 +6,7 @@
  of this license document, but changing it is not allowed.
 
                            
-The "CTRL/CTRL++ for Visual Studio Code" extension adds language support for "SIMATIC WinCC Open Architecture" CTRL/CTRL++ to Visual Studio Code, including features such as IntelliSense and debugging.
+The "CTRL/CTRL++ for Visual Studio Code" extension adds language support for "SIMATIC WinCC Open Architecture" CTRL/CTRL++ to Visual Studio Code, including features such as Highlighting, Snippets, IntelliSense, ...
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
