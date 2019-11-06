@@ -1,3 +1,5 @@
+<img src="https://github.com/LukasSchopp/vscode-ctrlpptools/blob/master/images/logo.png?raw=true" width="20%"/>
+
 # CTRL/CTRL++ for Visual Studio Code
 
 Welcome to the official Github Repository of our CTRL/CTRL++ Tools for Visual Studio Code.
