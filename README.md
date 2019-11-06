@@ -1,8 +1,8 @@
 # CTRL/CTRL++ for Visual Studio Code
 
-Welcome to the official Github Repository of our Ctrl++ Tools for Visual Studio Code.
+Welcome to the official Github Repository of our CTRL/CTRL++ Tools for Visual Studio Code.
 
-Add [**here**](https://github.com/LukasSchopp/vscode-ctrlpptools/issues) your questions, issues or feature request for the [CTRL/CTRL++ extension](https://marketplace.visualstudio.com/items?itemName=).
+Add [**here**](https://github.com/LukasSchopp/vscode-ctrlpptools/issues) your questions, issues or feature request for the CTRL/CTRL++ extension.
 
 ## Quick links
 - [Bug report](https://github.com/LukasSchopp/vscode-ctrlpptools/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
@@ -12,7 +12,7 @@ Add [**here**](https://github.com/LukasSchopp/vscode-ctrlpptools/issues) your qu
 
 ------
 
-[![Build Status](https://devops.slooptools.com/jenkins/buildStatus/icon?job=VSCodeCtrl%2Fdevelop)](https://devops.slooptools.com/jenkins/view/vsCodeExtenton/job/VSCodeCtrl/job/master/)
+[![Build Status](https://devops.slooptools.com/jenkins/buildStatus/icon?job=VSCodeCtrl%2Fmaster)](https://devops.slooptools.com/jenkins/view/vsCodeExtenton/job/VSCodeCtrl/job/master/)
 
 This release of the "CTRL/CTRL++ for Visual Studio Code" extension adds language support for "SIMATIC WinCC Open Architecture" CTRL/CTRL++ to Visual Studio Code, including features such as IntelliSense, code highlighting, snippets, static code analyse (CtrlPPCheck), ...
 
