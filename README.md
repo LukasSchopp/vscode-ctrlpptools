@@ -2,7 +2,7 @@
 
 Welcome to the official Github Repository of our CTRL/CTRL++ Tools for Visual Studio Code.
 
-Add [**here**](https://github.com/LukasSchopp/vscode-ctrlpptools/issues) your questions, issues or feature request for the CTRL/CTRL++ extension.
+Add [**here**](https://github.com/LukasSchopp/vscode-ctrlpptools/issues/new/choose) your questions, issues or feature request for the CTRL/CTRL++ extension.
 
 ## Quick links
 - [Bug report](https://github.com/LukasSchopp/vscode-ctrlpptools/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
