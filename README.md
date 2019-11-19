@@ -16,7 +16,7 @@ Add [**here**](https://github.com/LukasSchopp/vscode-ctrlpptools/issues/new/choo
 
 [![Build Status](https://devops.slooptools.com/jenkins/buildStatus/icon?job=VSCodeCtrl%2Fmaster)](https://devops.slooptools.com/jenkins/view/vsCodeExtenton/job/VSCodeCtrl/job/master/)
 
-This release of the "CTRL/CTRL++ for Visual Studio Code" extension adds language support for "SIMATIC WinCC Open Architecture" CTRL/CTRL++ to Visual Studio Code, including features such as IntelliSense, code highlighting, snippets, static code analyse (CtrlPPCheck), ...
+This release of the "CTRL/CTRL++ for Visual Studio Code" extension adds language support for "SIMATIC WinCC Open Architecture*" CTRL/CTRL++ to Visual Studio Code, including features such as IntelliSense, code highlighting, snippets, static code analyse (CtrlPPCheck), ...
 
 **Supported features**
 * CTRL & CTRL++ Language Highlighting
@@ -96,11 +96,11 @@ Fully integrated syntax highlighter for CTRL language.
 
 A collection of various Code Quality checks that are easy to use.
 
-With the SloopTools Quality Checks, we want to improve the Code Quality of WinCC OA projects and offer a comprehensive service.
+With the SloopTools Quality Checks, we want to improve the Code Quality of WinCC OA* projects and offer a comprehensive service.
 
 #### CtrlPPCheck
 
-The static code analysis tool **CtrlPPCheck** is a variation of the well-known cppCheck that understands WinCC OA CTRL and CTRL++.
+The static code analysis tool **CtrlPPCheck** is a variation of the well-known cppCheck that understands WinCC OA* CTRL and CTRL++.
 
 Included are, among many others, these checks:
 * Undefined variables
@@ -113,7 +113,7 @@ Included are, among many others, these checks:
 * and other ...
 
 CtrlPPCheck has configured all known CTRL functions and constants.
-Note: The configuration was carried out with the WinCC OA version 3.16 P12. If you have any problems, please let us know and create an [issue](https://github.com/LukasSchopp/vscode-ctrlpptools/issues/new/choose).
+Note: The configuration was carried out with the WinCC OA* version 3.16 P12. If you have any problems, please let us know and create an [issue](https://github.com/LukasSchopp/vscode-ctrlpptools/issues/new/choose).
 
 FREE version of CtrlPPCheck included in DEMO version!
 Get more information [here](https://store.slooptools.com/addon/quality-check-ctrlppcheck).
@@ -126,13 +126,13 @@ Get more information [here](https://store.slooptools.com/addon/quality-check-ctr
 
 **Medium Term**
 * Hover information for custom types and functions
-* ColorDB editor
+* ColorDB editor  
 * Highlighting for project config files
 
 **Long Term**
 * Start CTRL script from visual studio code
-* Show WinCC OA logs in visual studio code
-* Start WinCC OA unit test
+* Show WinCC OA* logs in visual studio code
+* Start WinCC OA* unit test
 * SQL selector for dpQuery()
 
 ## Limitations
@@ -143,3 +143,6 @@ Get more information [here](https://store.slooptools.com/addon/quality-check-ctr
 
 If you want to contribute in the CTRL/CTRL++ extension, please contact us on following mail:
 info@slooptools.com
+
+
+*registered trademark and product of ETM professional control GmbH - www.etm.at
